@@ -1,3 +1,4 @@
 About Git:
 Git is a version control system.
 Git is used to keep track of code changes.
+Github is a remote repository online.
